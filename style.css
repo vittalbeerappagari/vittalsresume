@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+}
+
+
+
+
+/* All css class attributes comes here */
+.nav-bar-container{
+    padding: 10px;
+    background-color: black;
+}
+
+.link{
+    padding: 10px;
+    color: white;
+}
